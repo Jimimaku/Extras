@@ -1,10 +1,10 @@
 {
-    "version": "1.4.1-188",
+    "version": "1.4.1-194",
     "description": "A modern music player and library organizer.",
     "homepage": "https://www.clementine-player.org/",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/clementine-player/Clementine/releases/download/1.4.1-188-ge1d1306f3/ClementineSetup-1.4.1-188-ge1d1306f3.exe#/dl.7z",
-    "hash": "b4036599ea5635fc5322eefeb9ae6c96b48d557909a4d4a7134eb24a8f51feef",
+    "url": "https://github.com/clementine-player/Clementine/releases/download/1.4.1-194-g72d409bf0/ClementineSetup-1.4.1-194-g72d409bf0.exe#/dl.7z",
+    "hash": "575f8fbe64c78cef74c6275d4f694feda83e6a6dd8e13626e4512b0aeebc6a09",
     "bin": "clementine.exe",
     "shortcuts": [
         [
